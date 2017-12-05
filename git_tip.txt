@@ -9,7 +9,8 @@ ls 查看目录
 git init
 git add .
 git commit -m "balabala"
-git push git@github.com:rygu09/-algorithm.git (SSH key)
+git remote add origin git@github.com:rygu09/git_tip.git
+git push -u origin master
 
 2、clone远程仓库到本地
 cd到要clone的目录
