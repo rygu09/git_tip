@@ -34,4 +34,5 @@ git reset --hard 3628164
 合并某分支到当前分支：git merge <name>
 删除分支：git branch -d <name>
 
-
+添加新的SSH Key（出现Permission denied (publickey).）
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
