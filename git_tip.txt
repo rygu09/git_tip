@@ -8,6 +8,7 @@ ls 查看目录
 1、创建本地仓库并将其push到远程仓库
 git init
 git add . /git add 文件名.扩展名
+git add -i //显示add但没有commit的文件
 git commit -m "balabala"
 git remote add origin git@github.com:rygu09/git_tip.git
 git push -u origin master
