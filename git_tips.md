@@ -33,7 +33,18 @@
     切换分支：git checkout <name>  
     创建+切换分支：git checkout -b <name>  
     合并某分支到当前分支：git merge <name>  
-    删除分支：git branch -d <name>  
+    删除分支：git branch -d <name> 
+    
+### 遇到的一些问题解决方法
 
+**1、commit 没有 -m 进入 vim界面**
 
-[添加新的SSH Key](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+输入i进入insert输入模式
+
+按ESC，下方insert消失，输入： 再输入 wq  回车，退出vim界面
+
+**2、fast-forwards**
+
+git pull 后再 git push
+
+3、[添加新的SSH Key](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
