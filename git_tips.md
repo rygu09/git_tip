@@ -50,3 +50,13 @@ git pull 后再 git push
 3、[添加新的SSH Key](https://www.cnblogs.com/superGG1990/p/6844952.html)
 
 [git官网](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+
+https://datastudio.google.com/u/0/navigation/reporting   Google的数据分析工具
+https://cloud.google.com/bigquery/
+https://firebase.google.com/docs/analytics/
+http://www.gcping.com/ google 检测当前网络到Google各个节点直接的ping延迟
+https://locust.io/   一个开源的压测工具，可模拟百万的用户行为
+
+
+Android产品研发（一）-->实用开发规范   https://blog.csdn.net/qq_23547831/article/details/51534013  
+美团组件化  https://tech.meituan.com/2018/12/20/modular-event.html
