@@ -60,4 +60,5 @@ https://locust.io/   一个开源的压测工具，可模拟百万的用户行�
 
 Android产品研发（一）-->实用开发规范   https://blog.csdn.net/qq_23547831/article/details/51534013  
 美团组件化  https://tech.meituan.com/2018/12/20/modular-event.html
+
 美团猫眼电影android模块化实战--可能是最详细的模块化实战 https://www.jianshu.com/p/d372cc6802e5
