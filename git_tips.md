@@ -62,3 +62,14 @@ Android产品研发（一）-->实用开发规范   https://blog.csdn.net/qq_235
 美团组件化  https://tech.meituan.com/2018/12/20/modular-event.html
 
 美团猫眼电影android模块化实战--可能是最详细的模块化实战 https://www.jianshu.com/p/d372cc6802e5
+
+git 
+删除远程分支   git push origin --delete 1.1.9.0314
+删除本地分支   git branch -d dev
+查看远程分支   git branch -a
+
+使用React全家桶搭建一个后台管理系统    https://www.cnblogs.com/MuYunyun/p/6843584.html
+
+react新手demo——TodoList   https://www.jianshu.com/p/211ecf8ed34e
+
+React Native与Android通信交互   https://blog.csdn.net/u013718120/article/details/55506238
